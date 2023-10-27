@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chamod Prabhashwara</h1>
 <h3 align="center">A passionate and dedicated computer science undergraduate who loves to learn & try out new things to become a skilled software engineer.</h3>
-<img align="right" alt="Coding" width="400" src="<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" >
+<img align="right" alt="Coding" width="400" src="<iframe src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chamodp&label=Profile%20views&color=0e75b6&style=flat" alt="chamodp" /> </p>
 
