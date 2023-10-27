@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/chamod-prabhashwara-70644826a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chamod-prabhashwara-70644826a/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/chamod-prabhashwara-70644826a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chamod-prabhashwara-70644826a/" height="30" width="40" /></a>
 <a href="https://fb.com/chamod prabhashwara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chamod prabhashwara" height="30" width="40" /></a>
 <a href="https://instagram.com/chamod__jr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chamod__jr" height="30" width="40" /></a>
 </p>
