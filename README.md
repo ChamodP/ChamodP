@@ -6,7 +6,7 @@
 ---
 
 - 🌱 **Currently Exploring:** JavaScript, Angular, and Node.js
-- 💬 **Let's Talk About:** C, C++, and SQL
+- 💬 **Let's Talk About:** C, C++, JavaScript, and Angular
 - 📫 **Reach Me At:** chamodp.jr@gmail.com
 
 ---
